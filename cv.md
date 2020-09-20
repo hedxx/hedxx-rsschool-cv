@@ -8,3 +8,7 @@ My name is *Alex Zdanovich*. I **want to be programmer**. This is my goal. I'm 3
   * Speciality: system engineer.
 * ## English language proficiency level:
   * A2.
+  ## Three traits of my character:
+  * I'm persistent;
+  * I'm hardworking;
+  * I'm curious
