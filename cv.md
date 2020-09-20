@@ -1,0 +1,14 @@
+# Cv of one junior front-end programmer.
+My name is *Alex Zdanovich*. I **want to be programmer**. This is my goal. I'm 36 years old.
+**My contacts:** *pachtouka2017@gmail.com*.
+* ## My work experience:
+  * System administrator in state company.
+* ## My Education History:
+  * Finished BSUiR in 2006.
+  * Speciality: system engineer.
+* ## English language proficiency level:
+  * A2.
+  ## Three traits of my character:
+  * I'm persistent;
+  * I'm hardworking;
+  * I'm curious
